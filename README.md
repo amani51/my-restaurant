@@ -1,7 +1,7 @@
 # my-restaurant
 ## Wlecome to _BE HEALTHY_ restaurant
 
- ### We welcome your appetite. Let our food satisfy your stomach.
+### We welcome your appetite. Let our food satisfy your stomach.
 
 ![image1](./images%20/1.jpg)
 
