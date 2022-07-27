@@ -70,6 +70,11 @@
 
 **FALL IN LOVE WITH TAKING _CARE_ OF _YOURSALF_**
 
+#### WIERFRAME IMAGE
+ **BY USING FIGMA** 
 
 
+ [CLICK HERE ](https://www.figma.com/proto/bdxJ8f7amLei3mrW2nq0tA/Untitled?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1)
+
+![wireframe](./images%20/wireframe.jpg)
 
