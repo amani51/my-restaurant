@@ -1,5 +1,5 @@
 # my-restaurant
-## Wlecome to _BE HEALTHY_ restaurant
+## Welcome to _BE HEALTHY_ restaurant
 
 ### We welcome your appetite. Let our food satisfy your stomach.
 
