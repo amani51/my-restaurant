@@ -5,31 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
 </head>
-<body>
-    <body style="background-color:LightGray;"></body>
-    <header>
-        <img src="./images /logo.png" alt="logo" >
-        <nav>
-            <ul>
-                <li><a href="./index.html">Home</a></li>   
-                <li><a href="./about.html">About Us</a></li>     
-                <li><a href="./menu.html">Restaurant Menu</a></li>
-                <li><a href="./order.html">Order Now</a></li>
-            </ul>
-        </nav>
+<body class="body-sty">
+       <header>
+        <img src="./images /logo.png" alt="logo" class="img-sty">
+        <form method="get" action="index.html">
+            <button type="submit" class="button-sty">Home</button>
+            </form>
+        <form method="get" action="about.html">
+            <button type="submit" class="button-sty">About Us</button>
+            </form>
+        <form method="get" action="menu.html">
+            <button type="submit" class="button-sty">Restaurant Menu</button>
+            </form>
+        <form method="get" action="order.html">
+            <button type="submit" class="last-button">Order Now</button>
+            </form>
     </header>
     <main>
-        <p style="font-size:200%;">Contact Us: </p>
+        <!-- <p style="font-size:200%;">Contact Us: </p>
         <p>+96277548218      +96278216551</p>
         <p>behealty2022@gamil.com</p>
-        <img src="./images /del.png" alt="del.symbol" >
-        <p style="font-size:200%;">Free delivery within 30min </p>
-
+        <img src="./images/del.png" alt="del.symbol" >
+        <p style="font-size:200%;">Free delivery within 30min </p> -->
+        <p class="ph1">
+            <img src="./images /del.png" alt="about us" class="photo">
+            Contact Us: <p class="ph1">
+                +96277548218      +96278216551
+            </p>
+        </p>
 
     </main>
     <footer>
-        <p style="text-align:center;">&copy; BE HEALTHY 2022</p>
+        <p class="copy-right">&copy; BE HEALTHY 2022</p>
     </footer>
 </body>
 </html>
