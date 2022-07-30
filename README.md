@@ -3,14 +3,14 @@
 
 ### We welcome your appetite. Let our food satisfy your stomach.
 
-![image1](./images/1.jpg)
+![image1](./images%20/1.jpg)
 
 
 
 ### RESTAURANT MANU
 
 #### MAIN DISHES 
-![image 2](./images/2.jpg)
+![image 2](./images%20/2.jpg)
 
 * Chicken Biryaneh
 * Chicken Mandi
@@ -27,7 +27,7 @@
 * Beef Oyster
 * Beef Teryaki
 #### SALAD 
-![image 3 ](./images/3.jpg)
+![image 3 ](./images%20/3.jpg)
 * Rocca Salad
 * Caesar Salad
 * Greek Salad
@@ -37,7 +37,7 @@
 * Sweet Beef Salad
 
 #### SOUP 
-![image 4](./images/4.jpg) 
+![image 4](./images%20/4.jpg) 
 
 * Vegetable Soup
 * Lentil Soup
@@ -47,7 +47,7 @@
 * Tomato Soup
 
 #### FRUIT DRINKS 
- ![image 5](./images/5.jpg)
+ ![image 5](./images%20/5.jpg)
 
  * Amla 
  * Orange
@@ -58,7 +58,7 @@
  * Watermelon 
 
 #### HOT DRINKS 
-  ![image 6 ](./images/6.jpg)
+  ![image 6 ](./images%20/6.jpg)
 
 * Fresh ginger tea
 * Fruit tea
@@ -76,5 +76,5 @@
 
  [CLICK HERE ](https://www.figma.com/proto/bdxJ8f7amLei3mrW2nq0tA/Untitled?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1)
 
-![wireframe](./images/wireframe.jpg)
+![wireframe](./images%20/wireframe.jpg)
 
