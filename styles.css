@@ -116,6 +116,7 @@ background: url(1.png);
     text-shadow: 2.7px 2.7px rgb(143, 126, 126);
     clear: right;
     
+    display: flex;
     
 }
 .photo {
